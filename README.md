@@ -1,2 +1,2 @@
 ### I reviewed what I learned during coding class. 🧐
-### There's JAVA basic knowledge stored in this repository.
+### There's Python basic knowledge stored in this repository.
